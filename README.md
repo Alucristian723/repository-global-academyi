@@ -1,1 +1,1 @@
-# repository-global-academyi
+# repository-global-academy
